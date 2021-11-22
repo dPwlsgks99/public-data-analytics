@@ -1,0 +1,25 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1574406773124.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "658987940",
+    "id" : "C562A733",
+    "lastKnownWriteTime" : 1574400148,
+    "last_content_update" : 1574400148,
+    "path" : "C:/Users/jaeeun/Desktop/day1/5dtm.R",
+    "project_path" : "5dtm.R",
+    "properties" : {
+        "cursorPosition" : "86,0",
+        "scrollLine" : "77"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 4,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
